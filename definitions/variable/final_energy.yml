@@ -1,0 +1,75 @@
+- Final Energy|Transportation:
+    unit: EJ/yr
+- Final Energy|Transportation|E-fuels:
+    unit: EJ/yr
+- Final Energy|Transportation|Electricity:
+    unit: EJ/yr
+- Final Energy|Transportation|Gases:
+    unit: EJ/yr
+- Final Energy|Transportation|Heat:
+    unit: EJ/yr
+Final Energy|Transportation|Hydrogen
+- Final Energy|Transportation|Liquids|Oil:
+    unit: EJ/yr
+- Final Energy|Transportation|Road:
+    unit: EJ/yr
+- Final Energy|Transportation|Road|Freight:
+    unit: EJ/yr
+- Final Energy|Transportation|Road|Passenger:
+    unit: EJ/yr
+- Final Energy|Transportation|Shipping:
+    unit: EJ/yr
+- Final Energy|Transportation|Solids|Biomass:
+    unit: EJ/yr
+- Final Energy|Transportation|Solids|Coomass:
+    unit: EJ/yr
+
+- Final Energy|Industry:
+    unit: EJ/yr
+- Final Energy|Industry|Cement:
+    unit: EJ/yr
+- Final Energy|Industry|Chemicals:
+    unit: EJ/yr
+- Final Energy|Industry|E-fuels:
+    unit: EJ/yr
+- Final Energy|Industry|Electricity:
+    unit: EJ/yr
+- Final Energy|Industry|Gases:
+    unit: EJ/yr
+- Final Energy|Industry|Heat:
+    unit: EJ/yr
+- Final Energy|Industry|Hydrogen:
+    unit: EJ/yr
+- Final Energy|Industry|Iron and Steel:
+    unit: EJ/yr
+- Final Energy|Industry|Liquids|Oil:
+    unit: EJ/yr
+- Final Energy|Industry|Non-Ferrous Metals|Aluminum:
+    unit: EJ/yr
+- Final Energy|Industry|Solids|Biomass:
+    unit: EJ/yr
+- Final Energy|Industry|Solids|Coal:
+    unit: EJ/yr
+
+- Final Energy|Bunkers|International Shipping:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Ammonia:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Ethanol:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Ethanol|Biomass:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Gases|Biomass:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Gases|Fossil:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Hydrogen:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Liquids|Biomass:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Liquids|Fossil|HFO:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Liquids|Fossil|MGO:
+    unit: EJ/yr
+- Final Energy|Bunkers|International Shipping|Methanol:
+    unit: EJ/yr

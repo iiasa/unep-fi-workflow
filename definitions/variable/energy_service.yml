@@ -1,0 +1,10 @@
+- Energy Service|Transportation|Aviation|Freight:
+    unit: billion tkm/yr
+- Energy Service|Transportation|Aviation|Passenger:
+    unit: billion pkm/yr
+- Energy Service|Transportation|Road|Freight:
+    unit: billion tkm/yr
+- Energy Service|Transportation|Road|Passenger:
+    unit: billion pkm/yr
+- Energy Service|Transportation|Shipping|Passenger:
+    unit: billion pkm/yr

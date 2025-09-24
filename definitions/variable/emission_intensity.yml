@@ -1,0 +1,45 @@
+- Emission Intensity|CO2|Commercial|Electricity:
+    unit: kg CO2/kWh
+- Emission Intensity|CO2|Commercial|Distribution Warehouse Cold:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Distribution Warehouse Warm:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Healthcare:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Hotel:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Leisure:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Office:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Retail High Street:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Retail Warehouse:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Commercial|Shopping Center:
+    unit: kg CO2/m2
+- Emission Intensity|CO2|Energy|Demand|Industry|Cement:
+    unit: MtCO2/Mt clinker
+- Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
+    unit: MtCO2/Mt cement
+- Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
+    unit: kg/$GDP
+- Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Primary:
+    unit: Mt CO2/Mt steel
+- Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Secondary:
+    unit: Mt CO2/Mt steel
+- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
+    unit: Mt CO2/Mt aluminum
+- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium:
+    unit: Mt CO2/Mt aluminum
+- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary Aluminium:
+    unit: Mt CO2/Mt aluminum
+- Emission Intensity|CO2|Energy|Demand|Transportation|Road|Freight:
+    unit: g CO2/tkm
+- Emission Intensity|CO2|Energy|Demand|Transportation|Road|Passenger:
+    unit: g CO2/pkm
+- Emission Intensity|CO2|Energy|Supply|Electricity:
+    unit: g CO2/kWh
+
+- Emission Intensity|Kyoto Gases|Energy|Demand|Industry|Steel:
+    unit: Mt CO2-equiv/Mt steel

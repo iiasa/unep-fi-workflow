@@ -1,0 +1,46 @@
+- Energy intensity|Commercial:
+    unit: EJ/m2
+- Energy intensity|Commercial|Distribution Warehouse Cold:
+    unit: EJ/m2
+- Energy intensity|Commercial|Distribution Warehouse Warm:
+    unit: EJ/m2
+- Energy intensity|Commercial|Healthcare:
+    unit: EJ/m2
+- Energy intensity|Commercial|Hotel:
+    unit: EJ/m2
+- Energy intensity|Commercial|Leisure:
+    unit: EJ/m2
+- Energy intensity|Commercial|Office:
+    unit: EJ/m2
+- Energy intensity|Commercial|Retail High Street:
+    unit: EJ/m2
+- Energy intensity|Commercial|Retail Warehouse:
+    unit: EJ/m2
+- Energy intensity|Commercial|Shopping Center:
+    unit: EJ/m2
+- Energy intensity|Residential:
+    unit: EJ/m2
+- Energy intensity|Residential|Multi-Family:
+    unit: EJ/m2
+- Energy intensity|Residential|Single-Family:
+    unit: EJ/m2
+
+- Energy intensity|Industry|Cement:
+    unit: EJ/Mt
+- Energy intensity|Industry|Chemicals:
+    unit: EJ/$GDP
+- Energy intensity|Industry|Iron and Steel:
+    unit: EJ/Mt
+- Energy intensity|Industry|Iron and Steel|Primary:
+    unit: EJ/Mt
+- Energy intensity|Industry|Iron and Steel|Secondary:
+    unit: EJ/Mt 
+- Energy intensity|Industry|Non-Ferrous Metals|Aluminum|Primary:
+    unit: EJ/Mt
+- Energy intensity|Industry|Non-Ferrous Metals|Aluminum|Secondary:
+    unit: EJ/Mt
+
+- Energy intensity|Transport|Road|Freight:
+    unit: EJ/billion tkm
+- Energy intensity|Transport|Road|Passenger:
+    unit: EJ/billion pkm
