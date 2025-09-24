@@ -1,0 +1,26 @@
+- Production|Iron and Steel|Steel:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|BF:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|DRI-EAF:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|DRI-Melt:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|DRI-Melt:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|EAF:
+    unit: Mt/yr
+- Production|Iron and Steel|Steel|SR:
+    unit: Mt/yr
+- Production|Non-Ferrous Metals|Aluminium:
+    unit: Mt/yr
+- Production|Non-Ferrous Metals|Aluminium|Primary Aluminium:
+    unit: Mt/yr
+- Production|Non-Ferrous Metals|Aluminium|Secondary Aluminium|New Scrap:
+    unit: Mt/yr
+- Production|Non-Ferrous Metals|Aluminium|Secondary Aluminium|Old Scrap:
+    unit: Mt/yr
+- Production|Non-Metallic Minerals|Cement:
+    unit: Mt/yr
+- Production|Non-Metallic Minerals|Clinker:
+    unit: Mt/yr
