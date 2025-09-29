@@ -8,7 +8,8 @@
     unit: EJ/yr
 - Final Energy|Transportation|Heat:
     unit: EJ/yr
-Final Energy|Transportation|Hydrogen
+- Final Energy|Transportation|Hydrogen:
+    unit: EJ/yr
 - Final Energy|Transportation|Liquids|Oil:
     unit: EJ/yr
 - Final Energy|Transportation|Road:
