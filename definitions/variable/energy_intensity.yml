@@ -1,46 +1,46 @@
-- Energy intensity|Commercial:
+- Energy Intensity|Commercial:
     unit: EJ/m2
-- Energy intensity|Commercial|Distribution Warehouse Cold:
+- Energy Intensity|Commercial|Distribution Warehouse Cold:
     unit: EJ/m2
-- Energy intensity|Commercial|Distribution Warehouse Warm:
+- Energy Intensity|Commercial|Distribution Warehouse Warm:
     unit: EJ/m2
-- Energy intensity|Commercial|Healthcare:
+- Energy Intensity|Commercial|Healthcare:
     unit: EJ/m2
-- Energy intensity|Commercial|Hotel:
+- Energy Intensity|Commercial|Hotel:
     unit: EJ/m2
-- Energy intensity|Commercial|Leisure:
+- Energy Intensity|Commercial|Leisure:
     unit: EJ/m2
-- Energy intensity|Commercial|Office:
+- Energy Intensity|Commercial|Office:
     unit: EJ/m2
-- Energy intensity|Commercial|Retail High Street:
+- Energy Intensity|Commercial|Retail High Street:
     unit: EJ/m2
-- Energy intensity|Commercial|Retail Warehouse:
+- Energy Intensity|Commercial|Retail Warehouse:
     unit: EJ/m2
-- Energy intensity|Commercial|Shopping Center:
+- Energy Intensity|Commercial|Shopping Center:
     unit: EJ/m2
-- Energy intensity|Residential:
+- Energy Intensity|Residential:
     unit: EJ/m2
-- Energy intensity|Residential|Multi-Family:
+- Energy Intensity|Residential|Multi-Family:
     unit: EJ/m2
-- Energy intensity|Residential|Single-Family:
+- Energy Intensity|Residential|Single-Family:
     unit: EJ/m2
 
-- Energy intensity|Industry|Cement:
+- Energy Intensity|Industry|Non-Metallic Minerals|Cement:
     unit: EJ/Mt
-- Energy intensity|Industry|Chemicals:
+- Energy Intensity|Industry|Chemicals:
     unit: EJ/$GDP
-- Energy intensity|Industry|Iron and Steel:
+# - Energy Intensity|Industry|Iron and Steel:
+#     unit: EJ/Mt
+- Energy Intensity|Industry|Iron and Steel|Primary:
     unit: EJ/Mt
-- Energy intensity|Industry|Iron and Steel|Primary:
-    unit: EJ/Mt
-- Energy intensity|Industry|Iron and Steel|Secondary:
+- Energy Intensity|Industry|Iron and Steel|Secondary:
     unit: EJ/Mt 
-- Energy intensity|Industry|Non-Ferrous Metals|Aluminum|Primary:
+- Energy Intensity|Industry|Non-Ferrous Metals|Aluminum|Primary:
     unit: EJ/Mt
-- Energy intensity|Industry|Non-Ferrous Metals|Aluminum|Secondary:
+- Energy Intensity|Industry|Non-Ferrous Metals|Aluminum|Secondary:
     unit: EJ/Mt
 
-- Energy intensity|Transport|Road|Freight:
+- Energy Intensity|Transport|Road|Freight:
     unit: EJ/billion tkm
-- Energy intensity|Transport|Road|Passenger:
+- Energy Intensity|Transport|Road|Passenger:
     unit: EJ/billion pkm

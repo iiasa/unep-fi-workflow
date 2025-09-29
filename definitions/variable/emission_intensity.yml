@@ -18,8 +18,8 @@
     unit: kg CO2/m2
 - Emission Intensity|CO2|Commercial|Shopping Center:
     unit: kg CO2/m2
-- Emission Intensity|CO2|Energy|Demand|Industry|Cement:
-    unit: MtCO2/Mt clinker
+# - Emission Intensity|CO2|Energy|Demand|Industry|Cement:
+#     unit: MtCO2/Mt clinker
 - Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
     unit: MtCO2/Mt cement
 - Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
@@ -28,8 +28,8 @@
     unit: Mt CO2/Mt steel
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Secondary:
     unit: Mt CO2/Mt steel
-- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
-    unit: Mt CO2/Mt aluminum
+# - Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
+#     unit: Mt CO2/Mt aluminum
 - Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium:
     unit: Mt CO2/Mt aluminum
 - Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary Aluminium:
@@ -41,5 +41,5 @@
 - Emission Intensity|CO2|Energy|Supply|Electricity:
     unit: g CO2/kWh
 
-- Emission Intensity|Kyoto Gases|Energy|Demand|Industry|Steel:
-    unit: Mt CO2-equiv/Mt steel
+# - Emission Intensity|Kyoto Gases|Energy|Demand|Industry|Steel:
+#     unit: Mt CO2-equiv/Mt steel

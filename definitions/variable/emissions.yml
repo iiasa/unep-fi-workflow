@@ -13,12 +13,12 @@
 - Emissions|CO2|Energy|Demand|Bunkers|International Shipping|Miscellaneous:
     unit: Mt CO2/yr
 
-- Emissions|CO2|Energy|Demand|Industry:
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Chemicals:
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
-    unit: Mt CO2/yr
+# - Emissions|CO2|Energy|Demand|Industry:
+#     unit: Mt CO2/yr
+# - Emissions|CO2|Energy|Demand|Industry|Chemicals:
+#     unit: Mt CO2/yr
+# - Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
+#     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium:
     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium|Electrolysis:
@@ -27,13 +27,13 @@
     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary Aluminium:
     unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Metallic Minerals|Cement:
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Steel:
-    unit: Mt CO2/yr
+# - Emissions|CO2|Energy|Demand|Industry|Non-Metallic Minerals|Cement:
+#     unit: Mt CO2/yr
+# - Emissions|CO2|Energy|Demand|Industry|Steel:
+#     unit: Mt CO2/yr
 
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel:
-    unit: Mt CO2-equiv/yr
+# - Emissions|Kyoto Gases|Energy|Demand|Industry|Steel:
+#     unit: Mt CO2-equiv/yr
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|BF:
     unit: Mt CO2-equiv/yr
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|DRI-EAF:
