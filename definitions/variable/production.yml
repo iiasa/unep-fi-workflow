@@ -6,8 +6,6 @@
     unit: Mt/yr
 - Production|Iron and Steel|Steel|DRI-Melt:
     unit: Mt/yr
-- Production|Iron and Steel|Steel|DRI-Melt:
-    unit: Mt/yr
 - Production|Iron and Steel|Steel|EAF:
     unit: Mt/yr
 - Production|Iron and Steel|Steel|SR:
