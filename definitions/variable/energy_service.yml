@@ -6,5 +6,5 @@
     unit: billion tkm/yr
 - Energy Service|Transportation|Road|Passenger:
     unit: billion pkm/yr
-- Energy Service|Transportation|Shipping|Passenger:
+- Energy Service|Transportation|Domestic Shipping|Passenger:
     unit: billion pkm/yr
