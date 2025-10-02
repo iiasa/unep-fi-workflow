@@ -1,24 +1,25 @@
-# - Production|Iron and Steel|Steel:
-#     unit: Mt/yr
 - Production|Iron and Steel|Steel|BF:
+    description: Production of Steel by Blast Furnace (BF) routes
     unit: Mt/yr
 - Production|Iron and Steel|Steel|DRI-EAF:
+    description: Production of Steel by Direct Reduced Iron (DRI) and Electric Arc Furnace (EAF) routes
     unit: Mt/yr
 - Production|Iron and Steel|Steel|DRI-Melt:
+    description: Production of Steel by Direct Reduced Iron (DRI) and melter (such as  Electric Smelting Furnace) routes
     unit: Mt/yr
 - Production|Iron and Steel|Steel|EAF:
+    description: Production of Steel by other Electric Arc Furnace (EAF) routes
     unit: Mt/yr
 - Production|Iron and Steel|Steel|SR:
+    description: Production of Steel by Smelting Reduction (SR) routes
     unit: Mt/yr
-# - Production|Non-Ferrous Metals|Aluminium:
-#     unit: Mt/yr
-- Production|Non-Ferrous Metals|Aluminium|Primary Aluminium:
+
+- Production|Non-Ferrous Metals|Aluminium|Primary:
     unit: Mt/yr
-- Production|Non-Ferrous Metals|Aluminium|Secondary Aluminium|New Scrap:
+- Production|Non-Ferrous Metals|Aluminium|Secondary|New Scrap:
     unit: Mt/yr
-- Production|Non-Ferrous Metals|Aluminium|Secondary Aluminium|Old Scrap:
+- Production|Non-Ferrous Metals|Aluminium|Secondary|Old Scrap:
     unit: Mt/yr
-# - Production|Non-Metallic Minerals|Cement:
-#     unit: Mt/yr
+
 - Production|Non-Metallic Minerals|Clinker:
     unit: Mt/yr

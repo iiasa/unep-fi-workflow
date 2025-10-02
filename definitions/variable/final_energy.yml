@@ -1,17 +1,3 @@
-# - Final Energy|Transportation:
-#     unit: EJ/yr
-- Final Energy|Transportation|E-fuels:
-    unit: EJ/yr
-# - Final Energy|Transportation|Electricity:
-#     unit: EJ/yr
-# - Final Energy|Transportation|Gases:
-#     unit: EJ/yr
-# - Final Energy|Transportation|Heat:
-#     unit: EJ/yr
-# - Final Energy|Transportation|Hydrogen:
-#     unit: EJ/yr
-# - Final Energy|Transportation|Liquids|Oil:
-    unit: EJ/yr
 - Final Energy|Transportation|Road:
     unit: EJ/yr
 - Final Energy|Transportation|Road|Freight:
@@ -20,37 +6,6 @@
     unit: EJ/yr
 - Final Energy|Transportation|Shipping:
     unit: EJ/yr
-# - Final Energy|Transportation|Solids|Biomass:
-#     unit: EJ/yr
-# - Final Energy|Transportation|Solids|Coal:
-#     unit: EJ/yr
-
-# - Final Energy|Industry:
-#     unit: EJ/yr
-# - Final Energy|Industry|Non-Metallic Minerals|Cement:
-#     unit: EJ/yr
-# - Final Energy|Industry|Chemicals:
-#     unit: EJ/yr
-- Final Energy|Industry|E-fuels:
-    unit: EJ/yr
-# - Final Energy|Industry|Electricity:
-#     unit: EJ/yr
-# - Final Energy|Industry|Gases:
-#     unit: EJ/yr
-# - Final Energy|Industry|Heat:
-#     unit: EJ/yr
-# - Final Energy|Industry|Hydrogen:
-#     unit: EJ/yr
-# - Final Energy|Industry|Iron and Steel:
-#     unit: EJ/yr
-# - Final Energy|Industry|Liquids|Oil:
-#     unit: EJ/yr
-# - Final Energy|Industry|Non-Ferrous Metals|Aluminum:
-#     unit: EJ/yr
-# - Final Energy|Industry|Solids|Biomass:
-#     unit: EJ/yr
-# - Final Energy|Industry|Solids|Coal:
-#     unit: EJ/yr
 
 # - Final Energy|Bunkers|International Shipping:
 #     unit: EJ/yr

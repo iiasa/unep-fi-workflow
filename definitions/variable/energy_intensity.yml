@@ -29,8 +29,6 @@
     unit: EJ/Mt
 - Energy Intensity|Industry|Chemicals:
     unit: EJ/billion $GDP
-# - Energy Intensity|Industry|Iron and Steel:
-#     unit: EJ/Mt
 - Energy Intensity|Industry|Iron and Steel|Primary:
     unit: EJ/Mt
 - Energy Intensity|Industry|Iron and Steel|Secondary:
