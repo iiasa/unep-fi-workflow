@@ -1,34 +1,34 @@
 - Energy Intensity|Commercial:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Distribution Warehouse Cold:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Distribution Warehouse Warm:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Healthcare:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Hotel:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Leisure:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Office:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Retail High Street:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Retail Warehouse:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Commercial|Shopping Center:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Residential:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Residential|Multi-Family:
-    unit: EJ/m2
+    unit: EJ/billion m2
 - Energy Intensity|Residential|Single-Family:
-    unit: EJ/m2
+    unit: EJ/billion m2
 
 - Energy Intensity|Industry|Non-Metallic Minerals|Cement:
     unit: EJ/Mt
 - Energy Intensity|Industry|Chemicals:
-    unit: EJ/$GDP
+    unit: EJ/billion $GDP
 # - Energy Intensity|Industry|Iron and Steel:
 #     unit: EJ/Mt
 - Energy Intensity|Industry|Iron and Steel|Primary:
