@@ -12,10 +12,8 @@ definitions:
         - hierarchy: R5
         - hierarchy: R9
         - hierarchy: R10
-#       - hierarchy: .. add model hierarchy here
+        - hierarchy: Regional Organizations
     country: true
-#mappings:
-#  repository:
-#    name: common-definitions
-#    include:
-#      - .. add model name here
+mappings:
+  repository:
+    name: common-definitions
