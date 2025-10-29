@@ -27,7 +27,3 @@
 - Emission Intensity|CO2|Energy|Demand|Transportation|Road|Passenger:
     unit: g CO2/pkm
     description: Emission intensity of CO2 per passenger-kilometer of passenger transportation
-
-- Emission Intensity|CO2|Energy|Supply|Electricity:
-    unit: g CO2/kWh
-    description: Emission intensity of CO2 per kilowatt-hour of electricity production
