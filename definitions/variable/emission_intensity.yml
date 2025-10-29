@@ -1,21 +1,6 @@
-- Emission Intensity|CO2|Commercial|Distribution Warehouse Cold:
+- Emission Intensity|CO2|Commercial|{commercial_building_type}:
     unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Distribution Warehouse Warm:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Healthcare:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Hotel:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Leisure:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Office:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Retail High Street:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Retail Warehouse:
-    unit: kg CO2/m2
-- Emission Intensity|CO2|Commercial|Shopping Center:
-    unit: kg CO2/m2
+    description: Emission intensity of CO2 for a commercial building of type {commercial_building_type}
 
 - Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
     unit: MtCO2/Mt
@@ -33,5 +18,6 @@
     unit: g CO2/tkm
 - Emission Intensity|CO2|Energy|Demand|Transportation|Road|Passenger:
     unit: g CO2/pkm
+
 - Emission Intensity|CO2|Energy|Supply|Electricity:
     unit: g CO2/kWh

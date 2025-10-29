@@ -1,29 +1,18 @@
 - Energy Intensity|Commercial:
     unit: EJ/billion m2
-- Energy Intensity|Commercial|Distribution Warehouse Cold:
+    description: Energy intensity of commercial buildings per floor space
+- Energy Intensity|Commercial|{commercial_building_type}:
     unit: EJ/billion m2
-- Energy Intensity|Commercial|Distribution Warehouse Warm:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Healthcare:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Hotel:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Leisure:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Office:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Retail High Street:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Retail Warehouse:
-    unit: EJ/billion m2
-- Energy Intensity|Commercial|Shopping Center:
-    unit: EJ/billion m2
+    description: Energy intensity of commercial buildings of type {commercial_building_type} per floor space
 - Energy Intensity|Residential:
     unit: EJ/billion m2
+    description: Energy intensity of residential buildings per floor space
 - Energy Intensity|Residential|Multi-Family:
     unit: EJ/billion m2
+    description: Energy intensity of multi-family residential buildings per floor space
 - Energy Intensity|Residential|Single-Family:
     unit: EJ/billion m2
+    description: Energy intensity of single-family residential buildings per floor space
 
 - Energy Intensity|Industry|Non-Metallic Minerals|Cement:
     unit: EJ/Mt
