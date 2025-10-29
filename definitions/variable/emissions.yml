@@ -20,15 +20,6 @@
 - Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary:
     unit: Mt CO2/yr
 
-# These subcategories extend the variable 
-# Emissions|Kyoto Gases|Energy|Demand|Industry|Steel in common-definitions
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|BF:
+- Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel|{steel_technology}:
     unit: Mt CO2-equiv/yr
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|DRI-EAF:
-    unit: Mt CO2-equiv/yr
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|DRI-Melt:
-    unit: Mt CO2-equiv/yr
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|EAF:
-    unit: Mt CO2-equiv/yr
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Steel|SR:
-    unit: Mt CO2-equiv/yr
+    description: Emissions of Kyoto Gases for Steel production by {steel_technology} routes

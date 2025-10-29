@@ -1,17 +1,5 @@
-- Production|Iron and Steel|Steel|BF:
-    description: Production of Steel by Blast Furnace (BF) routes
-    unit: Mt/yr
-- Production|Iron and Steel|Steel|DRI-EAF:
-    description: Production of Steel by Direct Reduced Iron (DRI) and Electric Arc Furnace (EAF) routes
-    unit: Mt/yr
-- Production|Iron and Steel|Steel|DRI-Melt:
-    description: Production of Steel by Direct Reduced Iron (DRI) and melter (such as  Electric Smelting Furnace) routes
-    unit: Mt/yr
-- Production|Iron and Steel|Steel|EAF:
-    description: Production of Steel by other Electric Arc Furnace (EAF) routes
-    unit: Mt/yr
-- Production|Iron and Steel|Steel|SR:
-    description: Production of Steel by Smelting Reduction (SR) routes
+- Production|Iron and Steel|Steel|{steel_technology}:
+    description: Production of Steel by {steel_technology} routes
     unit: Mt/yr
 
 - Production|Non-Ferrous Metals|Aluminium|Primary:
