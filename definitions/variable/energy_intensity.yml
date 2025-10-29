@@ -1,9 +1,9 @@
 - Energy Intensity|Commercial:
     unit: EJ/billion m2
     description: Energy intensity of commercial buildings per floor space
-- Energy Intensity|Commercial|{commercial_building_type}:
+- Energy Intensity|Commercial|{Commercial Building Type}:
     unit: EJ/billion m2
-    description: Energy intensity of commercial buildings of type {commercial_building_type} per floor space
+    description: Energy intensity of commercial buildings of type {Commercial Building Type} per floor space
 - Energy Intensity|Residential:
     unit: EJ/billion m2
     description: Energy intensity of residential buildings per floor space

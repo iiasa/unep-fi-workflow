@@ -1,6 +1,6 @@
-- Emission Intensity|CO2|Commercial|{commercial_building_type}:
+- Emission Intensity|CO2|Commercial|{Commercial Building Type}:
     unit: kg CO2/m2
-    description: Emission intensity of CO2 for a commercial building of type {commercial_building_type}
+    description: Emission intensity of CO2 for a commercial building of type {Commercial Building Type}
 
 - Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
     unit: MtCO2/Mt

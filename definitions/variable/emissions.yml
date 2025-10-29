@@ -30,6 +30,6 @@
     unit: Mt CO2/yr
     description: Emissions of CO2 for secondary aluminium production
 
-- Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel|{steel_technology}:
+- Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel|{Steel Technology}:
     unit: Mt CO2-equiv/yr
-    description: Emissions of Kyoto Gases for Steel production by {steel_technology} routes
+    description: Emissions of Kyoto Gases for Steel production by {Steel Technology} routes

@@ -1,5 +1,5 @@
-- Production|Iron and Steel|Steel|{steel_technology}:
-    description: Production of Steel by {steel_technology} routes
+- Production|Iron and Steel|Steel|{Steel Technology}:
+    description: Production of Steel by {Steel Technology} routes
     unit: Mt/yr
 
 - Production|Non-Ferrous Metals|Aluminium|Primary:
