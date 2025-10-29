@@ -16,18 +16,26 @@
 
 - Energy Intensity|Industry|Non-Metallic Minerals|Cement:
     unit: EJ/Mt
+    description: Energy intensity per ton of cement production
 - Energy Intensity|Industry|Chemicals:
     unit: EJ/billion $GDP
+    description: Energy intensity per billion $GDP of chemicals production
 - Energy Intensity|Industry|Iron and Steel|Primary:
     unit: EJ/Mt
+    description: Energy intensity per ton of primary steel production
 - Energy Intensity|Industry|Iron and Steel|Secondary:
     unit: EJ/Mt 
+    description: Energy intensity per ton of secondary steel production
 - Energy Intensity|Industry|Non-Ferrous Metals|Aluminum|Primary:
     unit: EJ/Mt
+    description: Energy intensity per ton of primary aluminum production
 - Energy Intensity|Industry|Non-Ferrous Metals|Aluminum|Secondary:
     unit: EJ/Mt
+    description: Energy intensity per ton of secondary aluminum production
 
 - Energy Intensity|Transport|Road|Freight:
     unit: EJ/billion tkm
+    description: Energy intensity per ton-kilometer of freight transportation
 - Energy Intensity|Transport|Road|Passenger:
     unit: EJ/billion pkm
+    description: Energy intensity per passenger-kilometer of passenger transportation

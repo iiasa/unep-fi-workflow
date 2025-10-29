@@ -4,20 +4,30 @@
 
 - Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
     unit: MtCO2/Mt
+    description: Emission intensity of CO2 per ton of clinker production
 - Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
     unit: kg/$GDP
+    description: Emission intensity of CO2 per billion $GDP of chemicals production
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Primary:
     unit: Mt CO2/Mt
+    description: Emission intensity of CO2 per ton of primary steel production
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Secondary:
     unit: Mt CO2/Mt
+    description: Emission intensity of CO2 per ton of secondary steel production
 - Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium:
     unit: Mt CO2/Mt
+    description: Emission intensity of CO2 per ton of primary aluminium production
 - Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary Aluminium:
     unit: Mt CO2/Mt
+    description: Emission intensity of CO2 per ton of secondary aluminium production
+
 - Emission Intensity|CO2|Energy|Demand|Transportation|Road|Freight:
     unit: g CO2/tkm
+    description: Emission intensity of CO2 per ton-kilometer of freight transportation
 - Emission Intensity|CO2|Energy|Demand|Transportation|Road|Passenger:
     unit: g CO2/pkm
+    description: Emission intensity of CO2 per passenger-kilometer of passenger transportation
 
 - Emission Intensity|CO2|Energy|Supply|Electricity:
     unit: g CO2/kWh
+    description: Emission intensity of CO2 per kilowatt-hour of electricity production
