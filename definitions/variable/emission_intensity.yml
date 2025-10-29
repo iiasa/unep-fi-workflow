@@ -1,5 +1,3 @@
-- Emission Intensity|CO2|Commercial|Electricity:
-    unit: kg CO2/kWh
 - Emission Intensity|CO2|Commercial|Distribution Warehouse Cold:
     unit: kg CO2/m2
 - Emission Intensity|CO2|Commercial|Distribution Warehouse Warm:

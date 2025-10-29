@@ -1,5 +1,3 @@
-# - Emissions|CO2|Energy|Demand|Bunkers|International Shipping:
-#     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Bunkers|International Shipping|Bulker:
     unit: Mt CO2/yr
 - Emissions|CO2|Energy|Demand|Bunkers|International Shipping|Tanker:
