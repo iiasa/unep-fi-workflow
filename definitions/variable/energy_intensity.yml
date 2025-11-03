@@ -15,8 +15,8 @@
     description: Energy intensity of single-family residential buildings per floor space
 
 - Energy Intensity|Industry|Chemicals:
-    unit: EJ/billion $GDP_2010
-    description: Energy intensity per billion $GDP_2010 of chemicals production
+    unit: EJ/billion USD_2010
+    description: Energy intensity per billion USD_2010 of chemicals production
 - Energy Intensity|Industry|Iron and Steel|Steel|Primary:
     unit: EJ/Mt
     description: Energy intensity per ton of primary steel production

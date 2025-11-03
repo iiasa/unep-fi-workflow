@@ -6,8 +6,8 @@
     unit: Mt CO2/Mt
     description: Emission intensity of CO2 per ton of clinker production
 - Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
-    unit: Mt CO2/billion $USD_2010
-    description: Emission intensity of CO2 per billion $USD_2010 of chemicals production
+    unit: Mt CO2/billion USD_2010
+    description: Emission intensity of CO2 per billion USD_2010 of chemicals production
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Primary:
     unit: Mt CO2/Mt
     description: Emission intensity of CO2 per ton of primary steel production
