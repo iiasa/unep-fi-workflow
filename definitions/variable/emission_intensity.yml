@@ -3,10 +3,10 @@
     description: Emission intensity of CO2 for a commercial building of type {Commercial Building Type}
 
 - Emission Intensity|CO2|Energy|Demand|Industry|Cement|Clinker:
-    unit: MtCO2/Mt
+    unit: Mt CO2/Mt
     description: Emission intensity of CO2 per ton of clinker production
 - Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
-    unit: kg/$GDP
+    unit: kg CO2/$USD
     description: Emission intensity of CO2 per billion $GDP of chemicals production
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Primary:
     unit: Mt CO2/Mt
