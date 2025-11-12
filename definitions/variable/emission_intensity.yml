@@ -1,4 +1,4 @@
-- Emission Intensity|CO2|Energy|Demand|Residential and Commertial:
+- Emission Intensity|CO2|Residential and Commercial:
     unit: Mt CO2/billion m2
     description: Emission intensity of CO2 for residential and commercial buildings per floor space
 - Emission Intensity|CO2|Residential|Single-Family:
