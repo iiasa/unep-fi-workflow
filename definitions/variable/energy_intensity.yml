@@ -10,9 +10,6 @@
 - Energy Intensity|Residential|{Residential Building Type}:
     unit: EJ/billion m2
     description: Energy intensity of multi-family residential buildings per floor space
-- Energy Intensity|Residential|Single-Family:
-    unit: EJ/billion m2
-    description: Energy intensity of single-family residential buildings per floor space
 
 - Energy Intensity|Industry|Chemicals:
     unit: EJ/billion USD_2010
