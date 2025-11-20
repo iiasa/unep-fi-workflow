@@ -21,9 +21,9 @@
     description: Energy intensity per ton of secondary steel production
     unit: EJ/Mt
 
-- Energy Intensity|Transport|Road|Freight:
+- Energy Intensity|Transport|Freight|Road:
     description: Energy intensity per ton-kilometer of freight transportation
     unit: EJ/billion tkm
-- Energy Intensity|Transport|Road|Passenger:
+- Energy Intensity|Transport|Passenger|Road:
     description: Energy intensity per passenger-kilometer of passenger transportation
     unit: EJ/billion pkm
