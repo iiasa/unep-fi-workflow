@@ -23,16 +23,3 @@
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Secondary:
     description: Emission intensity of CO2 per ton of secondary steel production
     unit: Mt CO2/Mt
-- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary Aluminium:
-    description: Emission intensity of CO2 per ton of primary aluminium production
-    unit: Mt CO2/Mt
-- Emission Intensity|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary Aluminium:
-    description: Emission intensity of CO2 per ton of secondary aluminium production
-    unit: Mt CO2/Mt
-
-- Emission Intensity|CO2|Energy|Demand|Transportation|Road|Freight:
-    description: Emission intensity of CO2 per ton-kilometer of freight transportation
-    unit: g CO2/tkm
-- Emission Intensity|CO2|Energy|Demand|Transportation|Road|Passenger:
-    description: Emission intensity of CO2 per passenger-kilometer of passenger transportation
-    unit: g CO2/pkm
