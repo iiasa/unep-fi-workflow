@@ -1,3 +1,8 @@
+- Emissions|CO2|Energy and Industrial Processes|Industry:
+    description: Emissions of CO2 from the industry sector including
+      direct energy use and industrial processes (Scope 1)
+    unit: Mt CO2/yr
+
 - Emissions|CO2|Energy and Industrial Processes|Iron and Steel:
     description: Emissions of CO2 from the iron and steel sector including emissions
       from direct energy use and industrial processes (Scope 1)
