@@ -48,8 +48,12 @@
     description: Direct energy-related emissions of CO2 for {Aluminum Type}
     unit: Mt CO2/yr
 
+- Emissions|CO2|Energy and Industrial Processes|Industry|Non-Metallic Minerals|Cement:
+    description: Emissions of CO2 from cement including
+      direct energy use and industrial processes (Scope 1)
+    unit: Mt CO2/yr
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Non-Metallic Minerals|Cement:
-    description: Emissions of Kyoto Gases for cement production
+    description: Direct energy-related emissions of Kyoto Gases for cement production
     unit: Mt CO2-equiv/yr
 
 - Emissions|Kyoto Gases|Energy and Industrial Processes [incl. Indirect Demand]|Iron and Steel|Steel:
