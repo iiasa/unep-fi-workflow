@@ -1,3 +1,7 @@
+- Emissions|CO2|Energy and Industrial Processes|Iron and Steel:
+    description: Emissions of CO2 from the iron and steel sector including emissions
+      from direct energy use and industrial processes (Scope 1)
+    unit: Mt CO2/yr
 - Emissions|CO2|Energy and Industrial Processes [incl. Indirect Demand]|Iron and Steel:
     description: Emissions of CO2 from the iron and steel sector including emissions
       from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
@@ -46,11 +50,20 @@
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Non-Metallic Minerals|Cement:
     description: Emissions of Kyoto Gases for cement production
     unit: Mt CO2-equiv/yr
+
+- Emissions|Kyoto Gases|Energy and Industrial Processes [incl. Indirect Demand]|Iron and Steel|Steel:
+    description: Emissions of Kyoto Gases for steel production (Scope 1 & Scope 2)
+    unit: Mt CO2-equiv/yr
+- Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel|{Steel Technology}|{Steel Technology}:
+    description: Direct energy-related emissions of Kyoto Gases for steel production
+      by {Steel Technology} routes
+    unit: Mt CO2-equiv/yr
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel:
-    description: Emissions of Kyoto Gases for Steel production
+    description: Direct energy-related emissions of Kyoto Gases for steel production
     unit: Mt CO2-equiv/yr
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Iron and Steel|Steel|{Steel Technology}:
-    description: Emissions of Kyoto Gases for Steel production by {Steel Technology} routes
+    description: Direct energy-related emissions of Kyoto Gases for steel production
+      by {Steel Technology} routes
     unit: Mt CO2-equiv/yr
 
 - Emissions|CO2|Energy|Demand|Transportation|Passenger|Road:
