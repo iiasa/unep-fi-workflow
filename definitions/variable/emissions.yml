@@ -36,20 +36,16 @@
     description: Emissions of CO2 for international shipping by miscellaneous vessels
     unit: Mt CO2/yr
 
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum:
-    description: Emissions of CO2 for aluminium production
+- Emissions|CO2|Energy and Industrial Processes|Non-Ferrous Metals|Aluminum:
+    description: Emissions of CO2 for aluminium production including direct energy use
+      and industrial processes (Scope 1)
     unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary:
-    description: Emissions of CO2 for primary aluminium production
+- Emissions|CO2|Energy and Industrial Processes [incl. Indirect Demand]|Non-Ferrous Metals|{Aluminum Type}:
+    description: Emissions of CO2 for {Aluminum Type} including emissions
+      from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
     unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary|Electrolysis:
-    description: Emissions of CO2 for primary aluminium production by electrolysis
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Primary|Refining:
-    description: Emissions of CO2 for primary aluminium production by refining
-    unit: Mt CO2/yr
-- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|Aluminum|Secondary:
-    description: Emissions of CO2 for secondary aluminium production
+- Emissions|CO2|Energy|Demand|Industry|Non-Ferrous Metals|{Aluminum Type}:
+    description: Direct energy-related emissions of CO2 for {Aluminum Type}
     unit: Mt CO2/yr
 
 - Emissions|Kyoto Gases|Energy|Demand|Industry|Non-Metallic Minerals|Cement:
