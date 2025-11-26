@@ -36,3 +36,8 @@
 - Emission Intensity|CO2|Energy|Demand|Industry|Iron and Steel|Steel|{Primary/Secondary}:
     description: Direct energy-related emission intensity of CO2 per ton of {Primary/Secondary} steel production
     unit: Mt CO2/Mt
+
+- Emission Intensity|CO2|Energy and Industrial Processes [incl. Indirect Demand]|Non-Ferrous Metals|Aluminum|{Primary/Secondary}:
+    description: Emission intensity of CO2 per ton of {Primary/Secondary} steel production
+      from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
+    unit: Mt CO2/Mt
