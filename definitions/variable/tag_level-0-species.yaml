@@ -1,0 +1,8 @@
+# This tag list can be used when only CO2 and aggregate Kyoto GHG emissions are reported
+- Level-0 Species:
+    - CO2:
+        description: carbon dioxide (CO2)
+        unit: Mt CO2
+    - Kyoto Gases:
+        description: Kyoto GHG emissions, including CO2, CH4, N2O and F-gases
+        unit: Mt CO2-equiv
