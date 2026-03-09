@@ -30,6 +30,11 @@ to faciliate interoperability and reuse of scenario data.
 > the definitions for this project are available for download as an xlsx spreadsheet
 > at http://files.ece.iiasa.ac.at/unep-fi/unep-fi-template.xlsx.
 
+> [!IMPORTANT]
+> This workflow repository uses definitions and region mappings from the
+> [common-definitions](https://github.com/IAMconsortium/common-definitions) repository.  
+> Check out [nomenclature.yaml](nomenclature.yaml) for the specific configuration.
+
 ### Project nomenclature
 
 The folder `definitions` can contain the project-specific codelists, i.e., list of allowed
