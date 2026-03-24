@@ -1,6 +1,3 @@
-- Final Energy|Transportation|Road:
-    unit: EJ/yr
-    description: Final energy consumption for road transportation
 - Final Energy|Transportation|Road|Freight:
     unit: EJ/yr
     description: Final energy consumption for freight transportation
