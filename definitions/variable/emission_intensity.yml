@@ -1,11 +1,9 @@
 - Emission Intensity|CO2|Energy|Demand|Residential and Commercial:
-    description:
-      Direct energy-related emission intensity of CO2 for residential and
+    description: Direct energy-related emission intensity of CO2 for residential and
       commercial buildings per floor space
     unit: Mt CO2/billion m2
 - Emission Intensity|CO2|Energy|Demand [incl. Indirect Demand]|Residential and Commercial:
-    description:
-      Direct and indirect energy-related emission intensity of CO2 for
+    description: Direct and indirect energy-related emission intensity of CO2 for
       residential and commercial buildings per floor space
     unit: Mt CO2/billion m2
 - Emission Intensity|CO2|Energy|Demand|Residential|{Residential Building Type}:
@@ -13,13 +11,11 @@
       {Residential Building Type} per floor space
     unit: Mt CO2/billion m2
 - Emission Intensity|CO2|Energy|Demand [incl. Indirect Demand]|Residential|{Residential Building Type}:
-    description:
-      Direct and indirect energy-related emission intensity of CO2 for
+    description: Direct and indirect energy-related emission intensity of CO2 for
       {Residential Building Type} per floor space
     unit: Mt CO2/billion m2
 - Emission Intensity|CO2|Energy|Demand|Commercial|{Commercial Building Type}:
-    description:
-      Direct energy-related emission intensity of CO2 for a {Commercial Building Type}
+    description: Direct energy-related emission intensity of CO2 for a {Commercial Building Type}
       per floor space
     unit: Mt CO2/billion m2
 - Emission Intensity|CO2|Energy|Demand [incl. Indirect Demand]|Commercial|{Commercial Building Type}:
@@ -31,19 +27,12 @@
     description: Emission intensity of CO2 per billion USD_2010 of chemicals production
     unit: Mt CO2/billion USD_2010
 
-- Emission Intensity|CO2|Energy and Industrial Processes|Iron and Steel|Steel:
-    description: 
-      Emission intensity of CO2 per ton of steel production including direct
-      energy use and industrial processes (Scope 1)
-    unit: Mt CO2/Mt
 - Emission Intensity|{Level-0 Species}|Energy and Industrial Processes [incl. Indirect Demand]|Iron and Steel|Steel:
-    description:
-      Emissions of {Level-0 Species} from the iron and steel sector including emissions
+    description: Emissions of {Level-0 Species} from the iron and steel sector including emissions
       from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
     unit: "{Level-0 Species}/Mt"
 - Emission Intensity|{Level-0 Species}|Energy and Industrial Processes|Iron and Steel|Steel|{Primary/Secondary}:
-    description:
-      Direct energy-related emission intensity of {Level-0 Species} per ton
+    description: Direct energy-related emission intensity of {Level-0 Species} per ton
       of {Primary/Secondary} steel production
     unit: "{Level-0 Species}/Mt"
 - Emission Intensity|{Level-0 Species}|Energy|Demand|Industry|Iron and Steel|Steel|{Primary/Secondary}:
@@ -51,25 +40,6 @@
     unit: "{Level-0 Species}/Mt"
 
 - Emission Intensity|CO2|Energy and Industrial Processes [incl. Indirect Demand]|Non-Ferrous Metals|Aluminum|{Primary/Secondary}:
-    description:
-      Emission intensity of CO2 per ton of {Primary/Secondary} aluminum production
+    description: Emission intensity of CO2 per ton of {Primary/Secondary} steel production
       from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
     unit: Mt CO2/Mt
-- Emission Intensity|CO2|Energy and Industrial Processes|Non-Ferrous Metals|Aluminum:
-    description: 
-      Emission intensity of CO2 per ton of aluminum production including
-      direct energy use and industrial processes (Scope 1)
-    unit: Mt CO2/Mt
-
-- Emission Intensity|CO2|Energy and Industrial Processes|Non-Metallic Minerals|Cement:
-    description:
-      Emissions intensity of CO2 per ton of cement production including
-      direct energy use and industrial processes (Scope 1)
-    unit: Mt CO2/Mt
-
-- Emission Intensity|CO2|Energy|Demand|Transportation|Passenger|Road:
-    description: Emission intensity of CO2 per passenger-kilometer of passenger transportation
-    unit: kg CO2/pkm
-- Emission Intensity|CO2|Energy|Demand|Transportation|Freight|Road:
-    description: Emission intensity of CO2 per ton-kilometer of freight transportation 
-    unit: kg CO2/tkm
