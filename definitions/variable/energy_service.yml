@@ -6,10 +6,10 @@
     description: Energy service per passenger-kilometer of passenger transportation
 - Energy Service|Transportation|Road|Freight:
     unit: billion tkm/yr
-    description: Energy service per ton-kilometer of freight transportation
+    description: Energy service per ton-kilometer of freight transportation on roads
 - Energy Service|Transportation|Road|Passenger:
     unit: billion pkm/yr
-    description: Energy service per passenger-kilometer of passenger transportation
+    description: Energy service per passenger-kilometer on roads
 - Energy Service|Transportation|Domestic Shipping|Passenger:
     unit: billion pkm/yr
     description: Energy service per passenger-kilometer of passenger transportation

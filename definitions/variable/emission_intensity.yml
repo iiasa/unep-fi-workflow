@@ -1,3 +1,7 @@
+- Emission Intensity|{Level-0 Species}|Energy|Supply|Heat:
+    description: Direct energy-related emission intensity of {Level-0 Species} for heat generation
+    unit: "{Level-0 Species}/EJ"
+
 - Emission Intensity|CO2|Energy|Demand|Residential and Commercial:
     description: Direct energy-related emission intensity of CO2 for residential and
       commercial buildings per floor space
@@ -24,15 +28,21 @@
     unit: Mt CO2/billion m2
 
 - Emission Intensity|CO2|Energy|Demand|Industry|Chemicals:
-    description: Emission intensity of CO2 per billion USD_2010 of chemicals production
-    unit: Mt CO2/billion USD_2010
+    description: Emission intensity of CO2 from direct energy use of chemicals production
+    unit: Mt CO2/Mt
+- Emission Intensity|CO2|Industrial Processes|Chemicals:
+    description: Emission intensity of CO2 from per industrial processes of chemicals production
+    unit: Mt CO2/Mt
+- Emission Intensity|CO2|Energy and Industrial Processes|Chemicals:
+    description: Emissions intensity of CO2 from direct energy use and industrial processes of chemicals production
+    unit: Mt CO2/Mt
 
 - Emission Intensity|{Level-0 Species}|Energy and Industrial Processes [incl. Indirect Demand]|Iron and Steel|Steel:
-    description: Emissions of {Level-0 Species} from the iron and steel sector including emissions
+    description: Emission intensity of {Level-0 Species} from the iron and steel sector including emissions
       from direct and indirect energy use and industrial processes (Scope 1 & Scope 2)
     unit: "{Level-0 Species}/Mt"
 - Emission Intensity|{Level-0 Species}|Energy and Industrial Processes|Iron and Steel|Steel|{Primary/Secondary}:
-    description: Direct energy-related emission intensity of {Level-0 Species} per ton
+    description: Intensity of {Level-0 Species} from direct energy use ad  iper ton
       of {Primary/Secondary} steel production
     unit: "{Level-0 Species}/Mt"
 - Emission Intensity|{Level-0 Species}|Energy|Demand|Industry|Iron and Steel|Steel|{Primary/Secondary}:

@@ -12,8 +12,8 @@
     unit: EJ/billion m2
 
 - Energy Intensity|Industry|Chemicals:
-    description: Energy intensity per billion USD_2010 of chemicals production
-    unit: EJ/billion USD_2010
+    description: Energy intensity per ton of chemicals production
+    unit: EJ/Mt
 - Energy Intensity|Industry|Iron and Steel|Steel|Primary:
     description: Energy intensity per ton of primary steel production
     unit: EJ/Mt
